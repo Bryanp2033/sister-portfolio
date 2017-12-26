@@ -5,7 +5,7 @@
   "description": "Christine's Personal site",
   "main": "index.html",
   "scripts": {
-    "start": "node index.html",
+    "start": "open index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
